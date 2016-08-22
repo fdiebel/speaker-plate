@@ -1,5 +1,3 @@
-# speaker-plate
-
 BFI Bullfrog Floor Monitor Speaker Plate
 =============
 
